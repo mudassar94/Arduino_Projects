@@ -1,6 +1,3 @@
-//by Simon Monk
-//www.elegoo.com
-//2016.06.13
 
 int latchPin = 5;
 int clockPin = 6;
